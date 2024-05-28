@@ -5,6 +5,7 @@ This project is a text-based Tycoon made with C++
 This project is my submission for Module #2 for CSE 310.
 
 [Software Demo Video](https://youtu.be/eXKnjnIxogc)
+
 [Replit Project Link](https://replit.com/@Logansphere/Logans-Tycoon?v=1)
 
 # Development Environment
